@@ -13,10 +13,10 @@ I'm a Game Developer, proficient using Unity and with great knowledge of C++, tr
 Here are some notable projects I've worked on:
 
 ### Bloodsvânia
-In this project I had to develop animation-based combat, so it proved a challenge for me at first! With a lot of tries and figuring out the best way to do it, I was able to achieve my goals and created something I was proud of!
+In this project I had to develop animation-based combat, so it proved a challenge for me at first! With a lot of tries and figuring out the best way to do it, I was able to achieve my goals and created something I was proud of! https://github.com/ManelNeon/Bloodsvania
 
 ### SDL Tetris Prototype
-First project I did using C++! Made a tetris prototype using only SDL! I centered this project around pointers as I thought they were an important skill I needed to acquire!
+First project I did using C++! Made a tetris prototype using only SDL! I centered this project around pointers as I thought they were an important skill I needed to acquire! https://github.com/ManelNeon/LearningCPP/tree/main/SDLTetris
 
 ## Education
 ### Instituto Politécnico de Bragança - ESACT
