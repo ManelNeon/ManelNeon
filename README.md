@@ -1,101 +1,43 @@
-# Hello, I'm Manel, Welcome to my Github!
+# Hello, I'm Manel! Welcome to my Github!
 
 ## About Me
-I'm a passionate Master’s student in Computational Engineering at Aveiro University, specializing in Data Science and/or Machine Learning. I’m dedicated to enhancing my skills and growing both personally and professionally. You can explore my projects on GitHub, where I showcase work from online courses and Kaggle competitions.
+I'm a Game Developer, proficient using Unity and with great knowledge of C++, trying to make my passion for videogames into a career in the industry. My fondness and care for the art of making videogames came from many, many hours playing and equally as many hours spent on watching videos on the topic, such as some very inspiring teachers that never stop encouraging me to go further.
 
-- 🌍 Based in Porto, Portugal
-- 📚 Master’s Student at Aveiro University
-- 🛠️ Aspiring Data Scientist and/or Machine Learning Engineer
+- From Porto, Portugal 🗺
+- Studying Game Design at Instituto Politécnico de Bragança 🕹️
 
 ## Skills
-- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - **Frameworks and Tools:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white), ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white), ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white), ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white), ![Matplotlib](https://img.shields.io/badge/Matplotlib-003d6a?style=flat&logo=matplotlib&logoColor=white), ![Seaborn](https://img.shields.io/badge/Seaborn-FF8C00?style=flat&logo=seaborn&logoColor=white), ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white), ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white), ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-- **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- **Databases:** ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white)
+- **Languages:** Proficient using Unity and C++
 
 ## Projects
 Here are some notable projects I've worked on:
 
-### [Advanced Traffic Analysis from Fixed Camera Video Data](https://github.com/vBarFace/ADVANCED-TRAFFIC-ANALYSIS-FROM-FIXED-CAMERA-VIDEO-DATA)
-Developed for a Computer Engineering course, this project focuses on analyzing traffic using video data from fixed cameras.
+### Bloodsvânia
+In this project I had to develop animation-based combat, so it proved a challenge for me at first! With a lot of tries and figuring out the best way to do it, I was able to achieve my goals and created something I was proud of!
 
-### [Kaggle Titanic Competition](https://github.com/vBarFace/Kaggle_Titanic_Competition)
-A comprehensive project for the Kaggle Titanic competition, implementing various data analysis and machine learning techniques.
-
-### [Kaggle Digit Recognizer](https://github.com/vBarFace/Kaggle-Digit-Recognizer)
-A project for the Kaggle Digit Recognizer competition, showcasing advanced data analysis and machine learning methods.
-
-## Certifications
-
-### Coursera
-- **Machine Learning Specialization (DeepLearning.AI)**
-  - Courses:
-    - Supervised Machine Learning: Regression and Classification
-    - Advanced Learning Algorithms
-    - Unsupervised Learning, Recommenders, Reinforcement Learning
-
-[Coursera Profile](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
-
-### DataCamp
-- Deep Learning with PyTorch
-  - Introduction to Deep Learning with PyTorch
-  - Intermediate Deep Learning with PyTorch
-  - Deep Learning for Text with PyTorch
-- Deep Learning with Keras
-  - Introduction to Deep Learning with Keras
-  - Advanced Deep Learning with Keras
-  - Image Modeling with Keras
-- Deep Learning for Images
-  - Deep Learning for Images with PyTorch
-- Image Processing
-  - Image Processing in Python
-
-- Machine Learning Concepts
-  - Monitoring Machine Learning Concepts
-  - Monitoring Machine Learning in Python
-  - End-to-End Machine Learning
-  - Preprocessing for Machine Learning in Python
-- Databases and SQL
-  - Introduction to Databases in Python
-  - Introduction to SQL
-  - Intermediate SQL
-  - Joining Data in SQL
-- Data Importing and Processing
-  - Intermediate Importing Data in Python
-  - Parallel Programming with Dask in Python
-- Software Development
-  - Developing Python Packages
-  - Introduction to Git
-- Cloud and MLOps
-  - Introduction to AWS
-  - MLOps Concepts
-- Business Applications
-  - Machine Learning for Business
-
-[DataCamp Profile](https://www.datacamp.com/portfolio/KaraBassasa)
-  
+### SDL Tetris Prototype
+First project I did using C++! Made a tetris prototype using only SDL! I centered this project around pointers as I thought they were an important skill I needed to acquire!
 
 ## Education
-### Aveiro University
-- **Master’s in Computational Engineering** (2022 - Present)
-- **Bachelor’s in Computational Engineering** (2019 - 2022)
+### Instituto Politécnico de Bragança - ESACT
+- **Game Design** (2022 - Present)
+
+### ISTEC Porto
+- **Mobile Device Development** (2019-2021)
 
 ## Experience
 
-### Taekwondo Athlete (Sep 2008 - Dec 2018)
-Competed in various national and international tournaments, representing Portugal’s National Team. In my [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/) are listed my all time achievements.
+### Employee at McDonald's (Sep 2021 - Feb 2022)
+A year off studying, to see if I really wanted to follow game development! Had this year to work on my social skills and organizational ones too! McDonald's proved efficient at that, even excelling among my peers as a great people person!
 
-### Taekwondo Coach (2016 - 2018)
-Taught and managed training sessions for different age groups, creating and delivering training plans tailored to each group.
-
-### Volunteering at [Viagem Medieval em Terra de Santa Maria](https://www.viagemmedieval.com/)
-- **Roles:** Support to Shows
-- During the period of 3 to 14 of August 2022 I volunteered in "Support to Shows," where I managed restricted areas, oversaw parades, and controlled stand access at a major event. This role, which involved teamwork, visitor interaction, and handling unexpected issues, provided valuable experience. I also collaborated with civil protection. In August 2023, I was promoted to lead of two teams. I will return as a volunteer for the same event from July 31 to August 11, 2024.
+### Internship at 3Decide (Mar 2021 - Jul 2021)
+An internship at 3Decide where I was still looking for my role in the game development world. Here I practised more of my 3D Modelling skills, having learnt 3DS Max for the first time! All in all a great experience to have, and even implemented those same models on an engine!
 
 ## Contacts
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/).
 
-Also, feel free as well to explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa) and [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915).
+Email: manuelaugusto.6@gmail.com
 
-## GitHub Profile
-... (16 lines left)
+LinkedIn: https://www.linkedin.com/in/manel-gonçalves-2ba3801b0/
+
+Personal Portfolio Site: https://manuelaugusto671.wixsite.com/knowme/game-portfolio
+
