@@ -41,3 +41,5 @@ LinkedIn: https://www.linkedin.com/in/manel-gonçalves-2ba3801b0/
 
 Personal Portfolio Site: https://manuelaugusto671.wixsite.com/knowme/game-portfolio
 
+Codewars: https://www.codewars.com/users/ManelNeon
+
